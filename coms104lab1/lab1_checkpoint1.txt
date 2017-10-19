@@ -1,0 +1,47 @@
+(a) What are the learning objectives of this course?
+
+- For each of the basic programming concept, a student will be able to identify
+and describe the appropriate situations where the concept can be applied.
+- For each basic programming concept, a student will be able to write correct
+Python syntax.
+- Given a simple real world problem, a student will be able to identify
+the appropriate basic programming concepts to be applied and will be able to write
+small scale program using Python.
+
+(b) How do you need to submit the Lab/Programming Assignments?
+
+Submitted via course webpage on Blackboard.
+
+(c) What is the deadline to appeal your grades?
+
+December 15th, 2017.
+
+(d) Give schedule for midterm and final exam.
+
+Midterm: Monday, November 6th 2017 - Friday, November 10th 2017
+Final: Monday December 11th 2017 - Friday December 15th 2017
+
+(e) True or False.
+
+	i. No late assignment will be accepted without a valid reason.
+		TRUE
+	ii. Solutions to assignment should be original and independently developed.
+		TRUE
+	iii. Midterm and Final exams need to be taken in a proctored environment.
+		TRUE
+	iv. Off Campus Students are required to select a proctor to take exams within first two weeks.
+		TRUE
+	v. Off Campus Students unable to find a protector is required to do the exams in
+		ISU Online Testing Centers located in 2552 Gilman & 60 Carver.
+		TRUE
+	vi. You must provide a valid photo ID to take exams.
+		TRUE
+	vii. Announcements post by either Instructor will be displayed in Announcement link
+		in course website in Blackboard. You must check the announcements every day.
+		TRUE
+	
+(f) Give examples of academic misconduct given in Iowa State University's academic dishonesty policy.
+
+Copying code from the internet without directly referencing where the code came from 
+	(trying to pass code/work off as your own).
+Coping code/solutions from other students.
