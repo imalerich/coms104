@@ -1,0 +1,7 @@
+'/' is an operator which performs division on the given operands, if integer values are given, i.e. 1,2,3,...
+then the division will truncate, that is '4/3' will evaluate to 1, as the 0.3333 will be truncated,
+if instead we use floating point values, '4.0/3.0' the expected value of 1.3333 will be computed
+
+'%" is the modulus operator, this operator only works on 2 integer operands, and returns the remainder
+of the division of those two operands, so in the example above '4/3' evaluates to 1 with a remainder of 1,
+this remainder of 1 is what the modulus operator would return, thus 4%3=1, 5%3=2, and 6%3=0 (as 3 evenly dividse 6)
