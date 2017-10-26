@@ -1,0 +1,24 @@
+***** Case 1 *****
+Hello World
+# prints out exactly the string we asked
+
+***** Case 2 *****
+Hello World
+# the ',' let's us print out more than one thing per line, and adds spaces to separate these items
+
+***** Case 3 *****
+HelloWorld
+# concatenates the strings "Hello" and "World" into one string by gluing them together
+# as "HelloWorld", does not insert any additional characters (e.g. spaces)
+# thus "HelloWorld" is printed
+
+***** Case 4 *****
+Hello
+World
+# The print command prints exactly one line (unless ',' is used)
+# thus as we use separate print statements, we get separate lines
+
+***** Case 5 *****
+Hello World
+# The ',' character here indicates that we want to print more stuff on the same line
+# so even though we have more than one print statement, we still only get one line

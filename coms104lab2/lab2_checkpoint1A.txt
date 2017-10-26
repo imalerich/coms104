@@ -1,0 +1,17 @@
+int() - Truncates input floating point to integer value.
+		That is, this function drops any decimal values from the input.
+	int(3.6) = 3 
+	int(-3.6) = -3
+	int(2) = 2
+
+round() - Rounds the input floating point value to the nearest integer
+	round(3.6) = 4
+	round(3.3) = 3
+	round(-3.6) = -4
+	round(-3.3) = -3
+
+ceil() - Returns the smallest integer n such that n is greater than the input.
+	ceil(3.6) = 4
+	ceil(3.3) = 4
+	ceil(-3.6) = -3
+	ceil(-3.3) = -3
